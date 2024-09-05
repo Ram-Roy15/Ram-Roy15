@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ram Chandra Roy</h1>
 <h3 align="center">A passionate web developer</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682">
-- 👨‍💻 All of my projects are available at [https://ram-roy15.github.io/B9A5/ https://65e46170a44d6d7c0884511a--incomparable-bonbon-b631c2.netlify.app/ https://ram-roy15.github.io/B9A2-Hero-Travel-main/https://ram-roy15.github.io/B9A1-New-Year-New-Mission/](https://ram-roy15.github.io/B9A5/ https://65e46170a44d6d7c0884511a--incomparable-bonbon-b631c2.netlify.app/ https://ram-roy15.github.io/B9A2-Hero-Travel-main/https://ram-roy15.github.io/B9A1-New-Year-New-Mission/)
+- 👨‍💻 All of my projects are available at https://ram-roy15.github.io/B9A5/ <br> https://65e46170a44d6d7c0884511a--incomparable-bonbon-b631c2.netlify.app/ <br> https://ram-roy15.github.io/B9A2-Hero-Travel-main/ <br> https://ram-roy15.github.io/B9A1-New-Year-New-Mission/ <br> https://ram-roy15.github.io/B9A5/ <br> https://65e46170a44d6d7c0884511a--incomparable-bonbon-b631c2.netlify.app/ <br> https://ram-roy15.github.io/B9A2-Hero-Travel-main/ <br> https://ram-roy15.github.io/B9A1-New-Year-New-Mission/)
 
 - 💬 Ask me about **JavaScript, React, Tailwind, NodeJs**
 
